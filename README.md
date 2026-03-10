@@ -9,11 +9,11 @@ Este proyecto forma parte del desafío Telecom X – Parte 2 y tiene como objeti
 A partir de un dataset previamente tratado, se realiza un proceso de preparación de datos, análisis exploratorio y entrenamiento de modelos de machine learning para comprender qué factores influyen en la cancelación de clientes.
 
 **Estructura del proyecto**
-TelecomX-Churn-Prediction
-│
-├── TelecomX_Modelos_Predictivos.ipynb   # Notebook principal
-├── TelecomX_tratado.csv                 # Dataset limpio
-└── README.md                            # Documentación del proyecto
+
+├── TelecomX_Modelos_Predictivos.ipynb
+├── TelecomX_tratado.csv
+└── README.md
+
 
 **Preparación de los datos**
 
