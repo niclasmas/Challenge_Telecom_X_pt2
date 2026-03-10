@@ -10,10 +10,11 @@ A partir de un dataset previamente tratado, se realiza un proceso de preparació
 
 **Estructura del proyecto**
 
+```
 ├── TelecomX_Modelos_Predictivos.ipynb
 ├── TelecomX_tratado.csv
 └── README.md
-
+```
 
 **Preparación de los datos**
 
